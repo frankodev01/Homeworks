@@ -1,0 +1,63 @@
+.clients{
+    display: flex;
+    justify-content: center;
+}
+
+.clients_title{
+    text-align: center;
+}
+
+.clients_title p{
+    color: #717171;
+    margin-bottom: 40px;
+}
+
+.clients_logo {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 50px;
+    margin-bottom: 20px;
+}
+
+.community_title{
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.community_title p{
+    margin-bottom: 60px;
+    color: #717171;
+}
+
+.community_imgs {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    width: 899px;
+    height: 300px;
+    margin: 0 auto;
+}
+
+.card{
+    width: 250px;
+    text-align: center;
+    background-color: rgb(241, 239, 239);
+    border-radius: 8px;
+}
+
+.card p{
+    padding: 10px;
+}
+
+.card h4{
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.card img{
+    padding-top: 20px;
+}
+
+
+
