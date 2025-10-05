@@ -1,0 +1,29 @@
+body{
+      background-color: #faf2e4;
+      font-family: sans-serif;
+      overflow: hidden;
+}
+
+div{
+    text-align: center;
+}
+
+.blue-line{
+    background-color: rgb(70, 70, 252);
+    width: 1500px;
+    height: 2px;
+    justify-self: center;
+}
+
+h2{
+    position: relative;
+    text-align: start;
+    left: 150px;
+    color: rgb(236, 155, 50);
+}
+
+p{
+    position: relative;
+    text-align: start;
+    left: 150px;
+}
